@@ -10,7 +10,7 @@ Linked List Visualizer is an interactive web application built using Next.js, Ty
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-👉 [**Live Demo**](https://crypto-tracker-two-theta.vercel.app/)
+👉 [**Live Demo**](https://linked-list-visualizer-kappa.vercel.app/)
 
 ## Frontend
 <img width="959" height="439" alt="Image" src="https://github.com/user-attachments/assets/a97c7728-9618-423c-a09d-84aaf4a9bc75" />
@@ -57,12 +57,26 @@ Open http://localhost:3000 with your browser to see the result.
 
 ## Features
 
-- Price tracking
-- International Fiat Currency support (Prices can also be viewed in other cryptocurrencies)
-- Historical Price data
-- Search Cryptocurrencies
-- Pagination
-- Chart.js implementation for charts
+- ✅ Add Nodes Dynamically
+Insert new elements into the linked list with just a few clicks.
+
+-🗑️ Delete Nodes
+Easily remove nodes from any position in the list.
+
+-👀 Visual Representation
+See the linked list update in real time as you perform operations.
+
+-🧠 Educational Tool
+Great for students learning data structures—understand how linked lists work visually.
+
+-⚙️ Responsive Design
+Works seamlessly on both desktop and mobile devices.
+
+-🎨 Custom UI Components
+Built with reusable, clean components using Tailwind CSS for fast UI development.
+
+-⚡ Fast and Lightweight
+Uses Next.js for optimized performance and fast load times.
 
 
 ## More Screenshots
