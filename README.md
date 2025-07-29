@@ -12,10 +12,11 @@ Linked List Visualizer is an interactive web application built using Next.js, Ty
 
 👉 [**Live Demo**](https://crypto-tracker-two-theta.vercel.app/)
 
-![App Screenshot]
+## Frontend
 <img width="959" height="439" alt="Image" src="https://github.com/user-attachments/assets/a97c7728-9618-423c-a09d-84aaf4a9bc75" />
 
-## Contact Page
+## Visualizer
+<img width="959" height="444" alt="Image" src="https://github.com/user-attachments/assets/64648b88-fdf5-46a0-88f2-9cbb977f0b54" />
 
 <img width="959" height="443" alt="Image" src="https://github.com/user-attachments/assets/ceacd188-f550-462e-a473-6da38c41b73a" />
 
@@ -71,9 +72,11 @@ Open http://localhost:3000 with your browser to see the result.
 **Coin Details**
 
 ![App Screenshot](https://cryptoboo.vercel.app/screenshots/coin_details_page.jpg)
+<img width="959" height="439" alt="Image" src="https://github.com/user-attachments/assets/7ed4a1e6-7ed2-4ea6-b87b-348e0ef44f53" />
 
 **Choose currency**
 ![App Screenshot](https://cryptoboo.vercel.app/screenshots/choose_currency_dialog.jpg)
+<img width="959" height="441" alt="Image" src="https://github.com/user-attachments/assets/14dc5616-8fdc-4ff4-ac48-ec43aa5d4646" />
 
 **Price Chart**
 ![App Screenshot](https://cryptoboo.vercel.app/screenshots/price_chart_2.jpg)
