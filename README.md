@@ -18,9 +18,6 @@ Linked List Visualizer is an interactive web application built using Next.js, Ty
 ## Visualizer
 <img width="959" height="444" alt="Image" src="https://github.com/user-attachments/assets/64648b88-fdf5-46a0-88f2-9cbb977f0b54" />
 
-<img width="959" height="443" alt="Image" src="https://github.com/user-attachments/assets/ceacd188-f550-462e-a473-6da38c41b73a" />
-
-
 ## Run Locally
 
 **1. Clone the project**
