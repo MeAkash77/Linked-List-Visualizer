@@ -57,7 +57,7 @@ Open http://localhost:3000 with your browser to see the result.
 
 ## Features
 
-- ✅ Add Nodes Dynamically
+-✅ Add Nodes Dynamically
 Insert new elements into the linked list with just a few clicks.
 
 -🗑️ Delete Nodes
