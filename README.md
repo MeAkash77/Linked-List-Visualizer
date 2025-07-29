@@ -69,15 +69,9 @@ Open http://localhost:3000 with your browser to see the result.
 **Project Details**
 
 ![App Screenshot](https://github.com/user-attachments/assets/7ed4a1e6-7ed2-4ea6-b87b-348e0ef44f53)
-<img width="959" height="439" alt="Image" src="https://github.com/user-attachments/assets/7ed4a1e6-7ed2-4ea6-b87b-348e0ef44f53" />
 
 **Choose currency**
-![App Screenshot](https://cryptoboo.vercel.app/screenshots/choose_currency_dialog.jpg)
-<img width="959" height="441" alt="Image" src="https://github.com/user-attachments/assets/14dc5616-8fdc-4ff4-ac48-ec43aa5d4646" />
-
-**Price Chart**
-![App Screenshot](https://cryptoboo.vercel.app/screenshots/price_chart_2.jpg)
-
+![App Screenshot](https://github.com/user-attachments/assets/14dc5616-8fdc-4ff4-ac48-ec43aa5d4646)
 
 ## Tech Stack
 The CryptoBoo 👻 application is built using a modern and robust tech stack. On the client side, it leverages React and Next.js for building a fast, SEO-friendly, and scalable frontend. TypeScript is used to add static typing and improve code reliability and maintainability. For styling, Tailwind CSS provides utility-first classes to create a responsive and clean UI, while Chart.js powers the dynamic and interactive data visualizations like price trends and historical charts. Real-time cryptocurrency data is fetched from the Coinranking API, ensuring accurate and up-to-date market insights for users. This tech stack ensures a performant, responsive, and developer-friendly web application.
