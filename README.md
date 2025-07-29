@@ -1,10 +1,7 @@
+# Linked List Visualizer👻 
+Linked List Visualizer is an interactive web application
+
 Linked List Visualizer is an interactive web application built using Next.js, TypeScript, and Tailwind CSS that allows users to visually understand and manipulate linked list data structures. The application provides an intuitive UI where users can perform operations like insertion, deletion, and traversal on singly linked lists in real time. With a clean and modern design, this tool is especially helpful for students, educators, and developers looking to strengthen their understanding of data structures through visual learning. It serves as a dynamic educational aid, making abstract concepts more accessible and engaging.
-
-
-# CryptoBoo 👻 
-A Cryptocurrency price tracking app made using Next.js
-
-CryptoBoo 👻 is a responsive and feature-rich cryptocurrency price tracking web application built with Next.js, TypeScript, Tailwind CSS, and Chart.js. It fetches real-time data from the Coinranking API to display up-to-date prices, historical trends, and detailed statistics for various cryptocurrencies. The application supports price tracking in both fiat and crypto currencies, integrates a live search, pagination for scalability, and renders intuitive price charts for visual analysis. Designed with performance and usability in mind, CryptoBoo offers a clean, modern UI and a smooth user experience across all devices.
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
