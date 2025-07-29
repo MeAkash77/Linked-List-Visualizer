@@ -38,15 +38,6 @@ Linked List Visualizer is an interactive web application built using Next.js, Ty
   npm install
 ```
 
-**4. Get an API Key** for Coinranking API from [**here**](https://rapidapi.com/Coinranking/api/coinranking1/)
-
-You can find the Docs for the API [here](https://developers.coinranking.com/api/documentation)  
-
-**5. Create .env.local file** in your project's root directory and create a variable
-```js
-NEXT_PUBLIC_RAPID_API={PASTE_YOUR_API_KEY_HERE}
-```
-
 **6. Start the server**
 
 ```bash
@@ -84,12 +75,24 @@ Uses Next.js for optimized performance and fast load times.
 
 ![App Screenshot](https://github.com/user-attachments/assets/7ed4a1e6-7ed2-4ea6-b87b-348e0ef44f53)
 
-**Choose currency**
+**Choose Data**
 ![App Screenshot](https://github.com/user-attachments/assets/14dc5616-8fdc-4ff4-ac48-ec43aa5d4646)
 
 ## Tech Stack
-The CryptoBoo 👻 application is built using a modern and robust tech stack. On the client side, it leverages React and Next.js for building a fast, SEO-friendly, and scalable frontend. TypeScript is used to add static typing and improve code reliability and maintainability. For styling, Tailwind CSS provides utility-first classes to create a responsive and clean UI, while Chart.js powers the dynamic and interactive data visualizations like price trends and historical charts. Real-time cryptocurrency data is fetched from the Coinranking API, ensuring accurate and up-to-date market insights for users. This tech stack ensures a performant, responsive, and developer-friendly web application.
+The Linked List Visualizer is built using React and Next.js, leveraging the power of server-side rendering and optimized routing. It is developed with TypeScript to ensure type safety and enhance code quality throughout the project. For styling, it uses Tailwind CSS, a utility-first CSS framework that enables rapid UI development with a clean and responsive design. The project is managed using npm as the package manager, and configured with ESLint to maintain consistent code standards. Additionally, PostCSS is integrated for advanced CSS processing in conjunction with Tailwind.
 
-**Client:** React, Next.js, Typescript,  TailwindCSS, Chart.js
+**Frontend**
+⚛️ React – JavaScript library for building user interfaces
 
-**API:** Coinranking API
+🚀 Next.js – React framework for server-side rendering and routing
+
+📘 TypeScript – Typed JavaScript for better code quality
+
+🎨 Tailwind CSS – Utility-first CSS framework for modern UI design
+
+**Tooling & Configuration**
+🛠️ ESLint – For code linting and standards
+
+🧩 PostCSS – Used with Tailwind for processing styles
+
+🗃️ npm – Node package manager to manage dependencies
