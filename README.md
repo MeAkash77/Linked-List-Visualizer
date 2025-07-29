@@ -12,7 +12,7 @@ Linked List Visualizer is an interactive web application built using Next.js, Ty
 
 👉 [**Live Demo**](https://crypto-tracker-two-theta.vercel.app/)
 
-![App Screenshot](https://cryptoboo.vercel.app/screenshots/homepage.jpg)
+![App Screenshot](<img width="959" height="439" alt="Image" src="https://github.com/user-attachments/assets/a97c7728-9618-423c-a09d-84aaf4a9bc75" />)
 
 ## Contact Page
 
