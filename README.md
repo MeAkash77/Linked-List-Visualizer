@@ -68,7 +68,7 @@ Open http://localhost:3000 with your browser to see the result.
 ## More Screenshots
 **Coin Details**
 
-![App Screenshot](https://cryptoboo.vercel.app/screenshots/coin_details_page.jpg)
+![App Screenshot]()
 <img width="959" height="439" alt="Image" src="https://github.com/user-attachments/assets/7ed4a1e6-7ed2-4ea6-b87b-348e0ef44f53" />
 
 **Choose currency**
